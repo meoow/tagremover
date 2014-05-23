@@ -1,6 +1,6 @@
 #Tag Remover
 
-This little utility is used to match and delete specific tags and all its children from HTML pages.
+This little utility is used to match and delete specific tags and all the children from HTML pages.
 
 ##Usage
 
