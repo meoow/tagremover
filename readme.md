@@ -4,7 +4,7 @@ This little utility is used to match and delete specific tags and all the childr
 
 ##Usage
 
-```
+```sh
 #rewite to stdout
 tagremover webpage.html html/body/table/tbody[border=1,cellpadding=6]
 
