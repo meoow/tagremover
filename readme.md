@@ -2,6 +2,9 @@
 
 This little utility is used to match and delete specific tags and all the children from HTML pages.
 
+##Deprecated
+Consider using my other library [nodefinder](https://github.com/meoow/nodefinder) for better path parsing and node finding.  
+
 ##Usage
 
 ```sh
